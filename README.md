@@ -65,3 +65,11 @@
 
  #### 2 订阅Gpt  Mastercard或Apple Pay方式
 这个我目前还没试。
+---
+
+### 其他相关（交易所推荐）
+
+- [欧意交易所（返20%）](https://chouyi.info/join/81772118)
+- [币安交易所（送100U）](https://www.suitechsui.online/activity/referral-entry/CPA?ref=CPA_00CN6IZXX7)
+- [Bybit交易所（返20%）](https://www.bybitglobal.com/en/invite/?ref=XKRZOM7)
+
