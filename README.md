@@ -4,7 +4,8 @@
 ### 一、注册 Gate 账户
 
 推荐先通过网页端完成注册，再下载 App 操作，体验更顺畅。
-- **网页快捷注册**：[点击进入 Gate 注册页面](https://app.bxjddjt.com/card/application?ref=VFYXXQHCVA&ref_type=130&channel=17&currency=USD)
+- **网页快捷注册**：[点击进入 Gate 注册页面](https://app.bxjddjt.com/card/redirect?key=invite&invite_code=VFYXXQHCVA)
+
 - **邀请码**：VFYXXQHCVA（注册时填写，感谢支持）
 
 1. **下载 App**：苹果商店 ID 切换至美区，搜索「Gate」下载并安装。
