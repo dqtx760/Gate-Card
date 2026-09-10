@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Gate Card 注册到绑卡全流程</title>
+  <desc id="hero-desc">Gate Card U 卡实操教程：注册账户、充值划转、申请开卡、绑定支付宝与 Apple Pay。开卡费 2 USDT，余额门槛 10 USDT，KYC 审核约 1 分钟。</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1C3C"/>
+      <stop offset="1" stop-color="#10305C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1578FF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#1578FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cardface" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#2F8DFF"/>
+      <stop offset="1" stop-color="#0D5AD6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+  <ellipse cx="965" cy="215" rx="300" ry="210" fill="url(#glow)"/>
+
+  <!-- left: title block -->
+  <g transform="translate(56 56)" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="0" y="30" font-size="18" font-weight="600" letter-spacing="3" fill="#6FA8FF">GATE USDT CARD · 实操教程</text>
+    <text x="0" y="98" font-size="60" font-weight="800" fill="#FFFFFF">Gate Card</text>
+    <text x="0" y="144" font-size="26" fill="#C9D8F2">手把手开卡，绑进支付宝 / Apple Pay</text>
+
+    <!-- flow: 注册 → 充值划转 → 申请开卡 → 绑卡消费 -->
+    <g font-size="20" font-weight="600" fill="#E8F0FE">
+      <rect x="0" y="188" width="132" height="48" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#3C5C93"/>
+      <text x="66" y="219" text-anchor="middle">注册账户</text>
+      <rect x="158" y="188" width="132" height="48" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#3C5C93"/>
+      <text x="224" y="219" text-anchor="middle">充值划转</text>
+      <rect x="316" y="188" width="132" height="48" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#3C5C93"/>
+      <text x="382" y="219" text-anchor="middle">申请开卡</text>
+      <rect x="474" y="188" width="132" height="48" rx="12" fill="#FFFFFF" fill-opacity="0.07" stroke="#3C5C93"/>
+      <text x="540" y="219" text-anchor="middle">绑卡消费</text>
+    </g>
+    <g font-size="22" fill="#5B7DB8" font-family="-apple-system,'Segoe UI',sans-serif">
+      <text x="145" y="220" text-anchor="middle">→</text>
+      <text x="303" y="220" text-anchor="middle">→</text>
+      <text x="461" y="220" text-anchor="middle">→</text>
+    </g>
+
+    <!-- key numbers -->
+    <g font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+      <text x="0" y="292" font-size="30" font-weight="700" fill="#FFFFFF">2 USDT</text>
+      <text x="0" y="318" font-size="17" fill="#8FA6CC">开卡费 · 中国区</text>
+      <text x="224" y="292" font-size="30" font-weight="700" fill="#FFFFFF">10 USDT</text>
+      <text x="224" y="318" font-size="17" fill="#8FA6CC">开卡余额门槛</text>
+      <text x="436" y="292" font-size="30" font-weight="700" fill="#FFFFFF">≈ 1 min</text>
+      <text x="436" y="318" font-size="17" fill="#8FA6CC">KYC 审核时长</text>
+    </g>
+  </g>
+
+  <!-- right: screenshot slot (1:1) -->
+  <g font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="800" y="44" width="320" height="320" rx="20" fill="#FFFFFF" fill-opacity="0.04" stroke="#46689E" stroke-width="2" stroke-dasharray="7 7"/>
+    <g transform="translate(942 132)" stroke="#7D9BD0" fill="none" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+      <rect x="0" y="0" width="36" height="28" rx="4"/>
+      <circle cx="10" cy="9" r="3.5" fill="#7D9BD0" stroke="none"/>
+      <path d="M4 22 L14 13 L20 18 L26 12 L32 22"/>
+    </g>
+    <text x="960" y="200" text-anchor="middle" font-size="20" font-weight="600" fill="#A9BFDF">1 : 1 实拍截图位</text>
+    <text x="960" y="228" text-anchor="middle" font-size="17" fill="#7E96C2">建议替换为 images/IMG_2875.webp</text>
+    <text x="960" y="254" text-anchor="middle" font-size="17" fill="#7E96C2">支付成功 + 交易详情</text>
+  </g>
+
+  <!-- card mock, overlapping the slot's top-left corner -->
+  <g transform="translate(736 28)" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="8" y="14" width="188" height="118" rx="14" fill="#03102A" fill-opacity="0.55"/>
+    <g transform="rotate(-8 94 59)">
+      <rect width="188" height="118" rx="14" fill="url(#cardface)"/>
+      <rect x="16" y="16" width="32" height="24" rx="5" fill="#FFFFFF" fill-opacity="0.3"/>
+      <text x="172" y="33" text-anchor="end" font-size="16" font-weight="700" fill="#8FF0C8">USDT</text>
+      <text x="16" y="76" font-size="17" font-weight="700" letter-spacing="1" fill="#FFFFFF">GATE CARD</text>
+      <text x="16" y="100" font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#FFFFFF" fill-opacity="0.8">•••• •••• •••• ••••</text>
+    </g>
+  </g>
+</svg>

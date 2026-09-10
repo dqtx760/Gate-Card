@@ -1,4 +1,7 @@
-手把手教你注册Gate-Card，轻松绑定支付宝/Apple Pay
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%"
+       alt="Gate Card 注册到绑卡全流程：注册、充值划转、申请开卡、绑定支付宝与 Apple Pay">
+</p>
 
 ### 一、注册 Gate 账户
 
@@ -9,7 +12,7 @@
 1. **下载 App**：苹果商店 ID 切换至美区，搜索「Gate」下载并安装。
 2. **选择地区**：打开 App 登录刚注册的账号，点击账户，居住国家/地区选择「中国」。
 3. **App 内创建账号（备选）**：如果没有在网页注册，也可直接在 App 内使用手机号，或通过苹果/谷歌/Telegram 授权登录注册（同样可填入邀请码）。
-![1102](https://gitee.com/da-qiang-classmate/typora/raw/master/image/IMG_2679.webp)
+![1102](./images/IMG_2679.webp)
 
 ### 二、充值与划转资金
 
@@ -63,7 +66,7 @@
 
 申请的时候门槛也不高，不用 VIP，顺手办了一张。现在看来，放支付宝里当张日常备用卡还挺实用。
 
-![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/IMG_2875.webp)
+![](./images/IMG_2875.webp)
 
 
 
@@ -76,6 +79,12 @@ https://x.com/wei_yuann/status/2088185112001417706?s=20
 
 - Fly.io零元部署openlist需绑卡（余额需10刀以上）
 - EdgeOne
-![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20260812222728817.webp)
+![](./images/20260812222728817.webp)
 - AWS S3--Cloudflare R2&全球CDN图床
 - AWS免费服务器
+
+---
+
+<p align="center">
+  <a href="https://github.com/oil-oil/beautify-github-readme"><img src="./assets/readme/made-with-beautify.svg" width="300" alt="README made with beautify-github-readme"></a>
+</p>
