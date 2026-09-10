@@ -1,24 +1,27 @@
-
-# 手把手教你注册Gate-Card，轻松绑定支付宝/Apple Pay
+手把手教你注册Gate-Card，轻松绑定支付宝/Apple Pay
 
 ### 一、注册 Gate 账户
 
 推荐先通过网页端完成注册，再下载 App 操作，体验更顺畅。
-- **网页快捷注册**：[点击进入 Gate 注册页面](https://app.bxjddjt.com/card/redirect?key=invite&invite_code=VFYXXQHCVA)
-
+- **网页快捷注册**：[点击进入 Gate 注册页面](https://app.bxjddjt.com/card/application?ref=VFYXXQHCVA&ref_type=130&channel=17&currency=USD)
 - **邀请码**：VFYXXQHCVA（注册时填写，感谢支持）
 
 1. **下载 App**：苹果商店 ID 切换至美区，搜索「Gate」下载并安装。
 2. **选择地区**：打开 App 登录刚注册的账号，点击账户，居住国家/地区选择「中国」。
 3. **App 内创建账号（备选）**：如果没有在网页注册，也可直接在 App 内使用手机号，或通过苹果/谷歌/Telegram 授权登录注册（同样可填入邀请码）。
-![1102](https://raw.githubusercontent.com/dqtx760/Gate-Card/main/images/IMG_2679.webp)
+![1102](https://gitee.com/da-qiang-classmate/typora/raw/master/image/IMG_2679.webp)
 
 ### 二、充值与划转资金
 
 进入开卡步骤前，需确保账户内有足够资金（开卡要求可用余额至少 10 USDT，选择中国区需 2U 开卡费，建议直接提币充值 13U）。
 
+**方法一：适合自己，没有钱包，没有交易所的纯小白。**
+1. 打开gate交易所页面上的充值，选择CTC交易，用支付宝买入USDT，尽量找靠谱的商家。
+2. **划转至 Pay 账户**：回到 Gate App，切换至「Pay」页面，点击「充值」-> 来源选择「交易所」，全部划转即可。
+
+**方法二：自己的其他交易所或者钱包里面有钱的话，可以通过此方法。**
 1. **获取充值地址**：在 Gate App 切换至「交易所」页面，点击「充值」->「链上充值」-> 币种选择「USDT」-> 网络选择「BNB」，复制地址。
-2. **提币充值**：打开 OKX（或其他交易所），通过 BNB 网络提现 USDT 至刚复制的 Gate 充值地址。
+2. **提币充值**：打开 OKX（或其他交易所），通过 BNB 网络提现 USDT 至刚复制的 Gate 充值地址
 3. **划转至 Pay 账户**：回到 Gate App，切换至「Pay」页面，点击「充值」-> 来源选择「交易所」，全部划转即可。
 
 ### 三、申请 Gate Card
@@ -60,17 +63,19 @@
 
 申请的时候门槛也不高，不用 VIP，顺手办了一张。现在看来，放支付宝里当张日常备用卡还挺实用。
 
-![](https://raw.githubusercontent.com/dqtx760/Gate-Card/main/images/IMG_2875.webp)
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/IMG_2875.webp)
 
 
 
  #### 2 订阅Gpt  Mastercard或Apple Pay方式
-这个我目前还没试。
----
+可能会拒绝，解决办法：可以试一下手机网页端 → Google Pay → U卡
+https://x.com/wei_yuann/status/2088185112001417706?s=20
 
-### 其他相关（交易所推荐）
 
-- [欧意交易所（返20%）](https://chouyi.info/join/81772118)
-- [币安交易所（送100U）](https://www.suitechsui.online/activity/referral-entry/CPA?ref=CPA_00CN6IZXX7)
-- [Bybit交易所（返20%）](https://www.bybitglobal.com/en/invite/?ref=XKRZOM7)
+3参加活动
 
+- Fly.io零元部署openlist需绑卡（余额需10刀以上）
+- EdgeOne
+![](https://gitee.com/da-qiang-classmate/typora/raw/master/image/20260812222728817.webp)
+- AWS S3--Cloudflare R2&全球CDN图床
+- AWS免费服务器
