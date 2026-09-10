@@ -64,7 +64,7 @@
   </g>
 
   <!-- card mock, tucked over the slot top-left corner -->
-  <g transform="translate(660 28)" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+  <g transform="translate(690 28)" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
     <rect x="8" y="14" width="188" height="118" rx="14" fill="#03102A" fill-opacity="0.55"/>
     <g transform="rotate(-8 94 59)">
       <rect width="188" height="118" rx="14" fill="url(#cardface)"/>
