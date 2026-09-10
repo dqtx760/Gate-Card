@@ -96,7 +96,7 @@ AI 工具与工作流实践者 · GitHub 开源项目作者
 - GPT/Claude 自助充值：[ai.dqtx.cc](https://ai.dqtx.cc/)
 - Gemini pro 18 个月：[点此查看](https://xodnytdcaw.feishu.cn/docx/TNBZdcIjAo0U0SxPyXtczir1n3d?from=from_copylink)
 - X Premium 蓝 V 代充：三个月 50、半年 88
-- 文章与工具：[dqtx.cc](https://www.dqtx.cc/) · [os.dqtx.cc](https://os.dqtx.cc/)
+- 文章与工具：[dqtx.cc](https://www.dqtx.cc/) · [os.dqtx.cc](https://os.dqtx.cc/) · [blog.dqtx.cc](https://blog.dqtx.cc/)
 - 关注更新：[B 站](https://space.bilibili.com/491358682/upload/video) · [YouTube](https://www.youtube.com/@dqtx760/videos) · [X](https://x.com/dqtx760)
 - 公众号：微信搜索「大强同学」
 
