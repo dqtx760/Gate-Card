@@ -73,6 +73,7 @@
  #### 2 订阅Gpt  Mastercard或Apple Pay方式
 可能会拒绝，解决办法：可以试一下手机网页端 → Google Pay → U卡
 https://x.com/wei_yuann/status/2088185112001417706?s=20
+![OpenAI 15.99 USD 订阅扣款：账单金额 15.75 USD，手续费 0.24 USD](./images/openai-payment.png)
 
 
 3参加活动
@@ -85,6 +86,22 @@ https://x.com/wei_yuann/status/2088185112001417706?s=20
 
 ---
 
-<p align="center">
-  <a href="https://github.com/oil-oil/beautify-github-readme"><img src="./assets/readme/made-with-beautify.svg" width="300" alt="README made with beautify-github-readme"></a>
-</p>
+## 👨‍💻 关于我
+
+一名专注于 AI 数字生产力的实践者与 Build in Public 践行者，为您提供 Claude Code / Codex 等 AI 工具的安装、配置、排错与咨询
+
+🔗 个人主页：https://bento.me/dqtx760
+
+📚 内容合集：https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzkzNjAyMzY5MA==&scene=1&album_id=3552141911074488326&count=20#wechat_redirect
+
+✍️ 即刻：https://okjk.co/1VuKy
+
+🐦 推特/X：https://x.com/dqtx760
+
+🤝 Claude Code/Codex 安装配置排错咨询：https://xodnytdcaw.feishu.cn/docx/TNBZdcIjAo0U0SxPyXtczir1n3d?from=from_copylink
+
+💡 AI很难学会吧？学习 diffs 视频 wasuai USDT(3.9元) → will be C Codes| Claude| Cocos中文习惯
+
+💰 creeping 开源 транспорт vv and AI Tools：https://stackvm.io/
+
+![大强同学](./images/author-banner.webp)
