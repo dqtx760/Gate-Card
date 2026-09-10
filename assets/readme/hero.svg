@@ -28,7 +28,7 @@
   <g transform="translate(56 56)" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
     <text x="0" y="30" font-size="18" font-weight="600" letter-spacing="3" fill="#6FA8FF">GATE USDT CARD · 实操教程</text>
     <text x="0" y="98" font-size="60" font-weight="800" fill="#FFFFFF">Gate Card</text>
-    <text x="0" y="144" font-size="26" fill="#C9D8F2">手把手开卡，绑进支付宝 / Apple Pay 并订阅 GptPlus</text>
+    <text x="0" y="144" font-size="26" fill="#C9D8F2">开卡指南，可绑定支付宝 / Apple Pay，亲测可订阅 GptPlus</text>
 
     <!-- flow: 注册 → 充值划转 → 申请开卡 → 绑卡消费 -->
     <g font-size="20" font-weight="600" fill="#E8F0FE">
