@@ -88,20 +88,18 @@ https://x.com/wei_yuann/status/2088185112001417706?s=20
 
 ## 👨‍💻 关于我
 
-一名专注于 AI 数字生产力的实践者与 Build in Public 践行者，为您提供 Claude Code / Codex 等 AI 工具的安装、配置、排错与咨询
+**大强同学（Derek Zhao）**
+AI 工具与工作流实践者 · GitHub 开源项目作者
+我在 Windows、AI Agent、Obsidian 和个人网站这些真实场景里，
+把能跑通的工具、Skill 和流程，整理成可复用的开源项目与交付方案。
 
-🔗 个人主页：https://bento.me/dqtx760
-
-📚 内容合集：https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzkzNjAyMzY5MA==&scene=1&album_id=3552141911074488326&count=20#wechat_redirect
-
-✍️ 即刻：https://okjk.co/1VuKy
-
-🐦 推特/X：https://x.com/dqtx760
-
-🤝 Claude Code/Codex 安装配置排错咨询：https://xodnytdcaw.feishu.cn/docx/TNBZdcIjAo0U0SxPyXtczir1n3d?from=from_copylink
-
-💡 AI很难学会吧？学习 diffs 视频 wasuai USDT(3.9元) → will be C Codes| Claude| Cocos中文习惯
-
-💰 creeping 开源 транспорт vv and AI Tools：https://stackvm.io/
+- GPT/Claude 自助充值：[ai.dqtx.cc](https://ai.dqtx.cc/)
+- Gemini pro 18 个月：[点此查看](https://xodnytdcaw.feishu.cn/docx/TNBZdcIjAo0U0SxPyXtczir1n3d?from=from_copylink)
+- X Premium 蓝 V 代充：三个月 50、半年 88
+- 文章与工具：[dqtx.cc](https://www.dqtx.cc/) · [os.dqtx.cc](https://os.dqtx.cc/)
+- 关注更新：[B 站](https://space.bilibili.com/491358682/upload/video) · [YouTube](https://www.youtube.com/@dqtx760/videos) · [X](https://x.com/dqtx760)
+- 公众号：微信搜索「大强同学」
 
 ![大强同学](./images/author-banner.webp)
+
+卡在安装、配置、报错，或想把 AI 接进自己的工作流，可以直接找我。
